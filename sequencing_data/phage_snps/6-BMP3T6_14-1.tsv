@@ -1,0 +1,8 @@
+Sample	Contig	Pos	Ref	Var	Score	Var_cov	Var_frac	Type	Ref_nt	Var_nt	Ref_nt_pos_change	Ref_aa_pos_change	Frameshift	Gene_ID	Locus_tag	Gene_name	Function	Upstream_feature	Downstream_feature	snpEff_type	snpEff_impact
+PE1	581037.21.con.0001	19508	TGGCA	TGCA	2353820.0	74607	1.00	Deletion	tgccag	TGCAg	276delC	Gln93fs	yes	fig|581037.21.peg.37			hypothetical protein	hypothetical protein	hypothetical protein	frameshift_variant	HIGH
+PE1	581037.21.con.0001	27538	C	T	2508020.0	79532	0.99	Nonsyn	gcc	gTc	89C>T	Ala30Val		fig|581037.21.peg.51			hypothetical protein	Phage protein	hypothetical protein	missense_variant	MODERATE
+PE1	581037.21.con.0001	47349	TGGTA	TGTA	2290160.0	73087	0.99	Deletion	ctggta	cTGTA	217delG	Val73fs	yes	fig|581037.21.peg.80			Phage tail fiber	hypothetical protein	hypothetical protein	frameshift_variant	HIGH
+PE1	581037.21.con.0001	49349	AA	CG	2139870.0	66320	0.99	Nonsyn	aat	CGt	2215_2216delAAinsCG	Asn739Arg		fig|581037.21.peg.80			Phage tail fiber	hypothetical protein	hypothetical protein	missense_variant	MODERATE
+PE1	581037.21.con.0001	49361	A	T	2144520.0	70155	0.99	Nonsyn	atc	Ttc	2227A>T	Ile743Phe		fig|581037.21.peg.80			Phage tail fiber	hypothetical protein	hypothetical protein	missense_variant	MODERATE
+PE1	581037.21.con.0001	49374	A	G	2273260.0	70439	1.00	Nonsyn	caa	cGa	2240A>G	Gln747Arg		fig|581037.21.peg.80			Phage tail fiber	hypothetical protein	hypothetical protein	missense_variant	MODERATE
+PE1	581037.21.con.0001	55246	T	C	1789170.0	66181	0.85	Nonsyn	atg	Gtg	1378A>G	Met460Val		fig|581037.21.peg.90			Phage DNA helicase	Phage protein	Phage protein	missense_variant	MODERATE

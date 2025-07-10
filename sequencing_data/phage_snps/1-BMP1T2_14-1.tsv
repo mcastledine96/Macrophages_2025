@@ -1,0 +1,3 @@
+Sample	Contig	Pos	Ref	Var	Score	Var_cov	Var_frac	Type	Ref_nt	Var_nt	Ref_nt_pos_change	Ref_aa_pos_change	Frameshift	Gene_ID	Locus_tag	Gene_name	Function	Upstream_feature	Downstream_feature	snpEff_type	snpEff_impact
+PE1	581037.21.con.0001	19508	TGGCA	TGCA	3330340.0	105346	1.00	Deletion	tgccag	TGCAg	276delC	Gln93fs	yes	fig|581037.21.peg.37			hypothetical protein	hypothetical protein	hypothetical protein	frameshift_variant	HIGH
+PE1	581037.21.con.0001	47349	TGGTA	TGTA	2983610.0	95295	0.99	Deletion	ctggta	cTGTA	217delG	Val73fs	yes	fig|581037.21.peg.80			Phage tail fiber	hypothetical protein	hypothetical protein	frameshift_variant	HIGH

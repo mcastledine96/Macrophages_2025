@@ -1,0 +1,8 @@
+Sample	Contig	Pos	Ref	Var	Score	Var_cov	Var_frac	Type	Ref_nt	Var_nt	Ref_nt_pos_change	Ref_aa_pos_change	Frameshift	Gene_ID	Locus_tag	Gene_name	Function	Upstream_feature	Downstream_feature	snpEff_type	snpEff_impact
+PE1	581037.21.con.0001	19508	TGGCA	TGCA	2906060.0	91790	1.00	Deletion	tgccag	TGCAg	276delC	Gln93fs	yes	fig|581037.21.peg.37			hypothetical protein	hypothetical protein	hypothetical protein	frameshift_variant	HIGH
+PE1	581037.21.con.0001	47349	TGGTA	TGTA	2525870.0	80428	1.00	Deletion	ctggta	cTGTA	217delG	Val73fs	yes	fig|581037.21.peg.80			Phage tail fiber	hypothetical protein	hypothetical protein	frameshift_variant	HIGH
+PE1	581037.21.con.0001	49349	A	T	2158490.0	74067	0.91	Nonsyn	aat	Tat	2215A>T	Asn739Tyr		fig|581037.21.peg.80			Phage tail fiber	hypothetical protein	hypothetical protein	missense_variant	MODERATE
+PE1	581037.21.con.0001	49374	A	G	2519270.0	79540	0.98	Nonsyn	caa	cGa	2240A>G	Gln747Arg		fig|581037.21.peg.80			Phage tail fiber	hypothetical protein	hypothetical protein	missense_variant	MODERATE
+PE1	581037.21.con.0001	49421	G	T	1888210.0	70545	0.85	Nonsyn	gcc	Tcc	2287G>T	Ala763Ser		fig|581037.21.peg.80			Phage tail fiber	hypothetical protein	hypothetical protein	missense_variant	MODERATE
+PE1	581037.21.con.0001	49442	C	A	268160.0	45637	0.55	Nonsyn	caa	Aaa	2308C>A	Gln770Lys		fig|581037.21.peg.80			Phage tail fiber	hypothetical protein	hypothetical protein	missense_variant	MODERATE
+PE1	581037.21.con.0001	49481	G	T	820400.0	54166	0.65	Nonsyn	gtc	Ttc	2347G>T	Val783Phe		fig|581037.21.peg.80			Phage tail fiber	hypothetical protein	hypothetical protein	missense_variant	MODERATE
